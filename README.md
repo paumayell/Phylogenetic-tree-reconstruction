@@ -57,7 +57,7 @@ Este curso está dirigido a estudiantes e investigadores jóvenes interesados en
 
 Para la parte práctica de este curso, utilizaremos las siguientes herramientas bioinformáticas que deberán ser instaladas en tu computadora o, en su caso, deberás registrarte como usuario nuevo en la plataforma en línea: 
 - [MEGA](https://www.megasoftware.net): Descarga el archivo adecuado para tu sistema operativo (Windows, macOS o Linux) y segue las instrucciones de instalación proporcionadas para tu sistema.
-- [FigTree](https://github.com/rambaut/figtree/releases/tag/v1.4.4): Descarga el archivo correspondiente a tu sistema operativo (Windows o Linux -> FigTree.v1.4.4.zip, macOS -> FigTree.v1.4.4.dmg) y segue las instrucciones de instalación de tu computadora.
+- [FigTree](https://github.com/rambaut/figtree/releases/tag/v1.4.4): Descarga el archivo correspondiente a tu sistema operativo (Windows o Linux: **FigTree.v1.4.4.zip**, macOS: **FigTree.v1.4.4.dmg**) y segue las instrucciones de instalación de tu computadora.
 - [iTOL](https://itol.embl.de) - Regístrate en el sitio web haciendo clic en el botón "Register" ubicado en la parte superior derecha.
 
 Verifica que la instalación se haya realizado correctamente abriendo el programa en tu computadora. ¡Con esto estarás listo para seguir la parte práctica del curso y aprovecharlo al máximo!
