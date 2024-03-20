@@ -6,9 +6,9 @@ Edición: **Abril 2024**
 El objetivo de este curso es adquirir los principios básicos para la construcción e interpretación de árboles filogenéticos. 
 
 ## Descripción del curso
-Los materiales incluidos en este repositorio forman parte del Bio-bootcamp "Introducción a la Bioinformática" de [Conciverso](https://conociverso.com.mx), una plataforma online que permite aprender ciencia de una manera accesible. Este curso se llevó a cabo en Abril de 2024.
+Los materiales incluidos en este repositorio forman parte del Bio-bootcamp "Introducción a la Bioinformática" de [Conciverso](https://conociverso.com.mx), una plataforma online que permite aprender ciencia de una manera accesible.
 
-Este curso de cuatro días proporciona una introducción al análisis filogenético, abarcando tanto una parte teórica que explora los conceptos fundamentales, como una parte práctica con ejercicios guiados para la reconstrucción de árboles filogenéticos. Con este curso, obtendrás las habilidades necesarias para crear tus propios árboles, que pueden ser utilizados en informes de investigación, presetaciones, tesis, pósters para congresos, entre otros propósitos. Las herramientas y software enseñados en este curso incluyen MEGA, iTOL y FigTree.
+Este curso de cuatro días proporciona una introducción al análisis filogenético, abarcando tanto una parte teórica que explora los conceptos fundamentales, como una parte práctica con ejercicios guiados para la reconstrucción de árboles filogenéticos. Con este curso, obtendrás las habilidades necesarias para crear tus propios árboles, que pueden ser utilizados en informes de investigación, presentaciones, tesis, pósters para congresos, entre otros propósitos. Las herramientas y software enseñados en este curso incluyen MEGA, iTOL y FigTree.
 
 ## Requisitos previos
 Este curso está dirigido a estudiantes e investigadores jóvenes interesados en explorar la evolución de los organismos mediante el análisis bioinformático de su información codificada en sus genomas. ¡Estudiantes de todas las áreas son bienvenidos! Para aprovechar al máximo este curso, recomendamos:
