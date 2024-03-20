@@ -12,7 +12,7 @@ Este curso de cuatro días proporciona una introducción al análisis filogenét
 
 ## Requisitos previos
 Este curso está dirigido a estudiantes e investigadores jóvenes interesados en explorar la evolución de los organismos mediante el análisis bioinformático de su información codificada en sus genomas. ¡Estudiantes de todas las áreas son bienvenidos! Para aprovechar al máximo este curso, recomendamos:
-- Contar con una computadora (Windows, macOS  o Linux) con conexión a internet, con al menos 8GB de RAM y 10GB de espacio en disco libres.
+- Contar con una computadora con conexión a internet, con al menos 8GB de RAM y 10GB de espacio en disco libres.
 - ¡Muchas ganas de aprender!
 
 ## Fechas y horarios
@@ -26,7 +26,8 @@ Este curso está dirigido a estudiantes e investigadores jóvenes interesados en
 
 
 ## Contenido del curso
-<h3 style="color:green;">Día 1: Conceptos clave</h3>
+
+**Día 1: Conceptos clave**
 - Concepto de evolución
 - Tipos de secuencias
 - Genes ortólogos
@@ -35,20 +36,20 @@ Este curso está dirigido a estudiantes e investigadores jóvenes interesados en
 - Modelos de sustitución
 - Métodos filogenéticos: Neighbor-joining, Máxima verosimilitud, Parsimonia, Inferencia Bayesiana.
   
-<h3 style="color:green;">Día 2: Preparación de datos y herramientas</h3>
+**Día 2: Preparación de datos y herramientas**
 - Planteamiento del proyecto
 - Descarga de secuencias
 - Instalación de herramientas bioinformáticas
 - Registro de usuario en las herramientas online
 
-<h3 style="color:green;">Día 3: Reconstrucción filogenética</h3>
+**Día 3: Reconstrucción filogenética**
 - Exploración de los datos
 - Obtención de genes ortólogos
 - Alineamiento de secuencias (MEGA)
 - Cálculo del modelo de sustitución (MEGA)
 - Construcción del árbol filogenético (MEGA)
 
-<h3 style="color:green;">Día 4: Edición de árboles filogenéticos</h3>
+**Día 4: Edición de árboles filogenéticos**
 - Cómo "leer" o interpretar un árbol filogenético
 - Uso de la herramienta FigTree
 - Uso de la herramienta iTOL
@@ -70,9 +71,14 @@ Verifica que la instalación se haya realizado correctamente abriendo el program
 Para obtener tu diploma de participación en este curso, debes cumplir con al menos 75% de asistencia (es decir, asistir a al menos 3 clases).
 Al finalizar el curso, se te proporcionará una encuesta de satisfacción y retroalimentación para el equipo detrás de Conociverso. Una vez completada la encuesta, recibirás tu diploma. Tu opinión es muy valiosa para nosotros, ya que nos ayudará a mejorar nuestras estrategias de enseñanza y organización, garantizando mejores experiencias en futuras sesiones. 
 
-## Contacto
+## Contactos
 
-Dra. Paulina M. Mejía Ponce
-e-mail: paumayell@outlook.com
+Instructora:
+- **Dra. Paulina M. Mejía Ponce**
+  paumayell@outlook.com
+
+Equipo Conociverso:
+- contacto@conociverso.com
 
 ## Agradecimientos
+
