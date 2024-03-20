@@ -1,8 +1,8 @@
 # Construcción y edición de árboles filogenéticos 
 
-Abril 2024
+Edición: **Abril 2024**
 
-**Objetivo**
+## Objetivo
 El objetivo de este curso es adquirir los principios básicos para la construcción e interpretación de árboles filogenéticos. 
 
 **Descripción del curso**
