@@ -27,13 +27,13 @@ Este curso está dirigido a estudiantes e investigadores jóvenes interesados en
 ## Contenido del curso
 
 <h3 style="color:green;">Día 1: Conceptos clave</h3>
-  * Concepto de evolución
-  * Tipos de secuencias
-  *  Genes ortólogos
-  * Alineamiento de secuencias
-  * Secuencias consenso
-  * Modelos de sustitución
-  * Métodos filogenéticos: Neighbor-joining, Máxima verosimilitud, Parsimonia, Inferencia Bayesiana
+- Concepto de evolución
+- Tipos de secuencias
+- Genes ortólogos
+- Alineamiento de secuencias
+- Secuencias consenso
+- Modelos de sustitución
+- Métodos filogenéticos: Neighbor-joining, Máxima verosimilitud, Parsimonia, Inferencia Bayesiana
   
 <h3 style="color:green;">Día 2: Preparación de datos y herramientas</h3>
 - Planteamiento del proyecto
