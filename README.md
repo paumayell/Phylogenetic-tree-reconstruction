@@ -1,4 +1,7 @@
-<h1 style="color:red;">Construcción y edición de árboles filogenéticos</h1> 
+<h1 style="color:`#0969DA`;">Construcción y edición de árboles filogenéticos</h1> 
+<font color="#9900FF"> Bienvenido a freeCodeCamp. </font>
+<h1 style="color: "red";"> ¡Bienvenido a freeCodeCamp! </h1>
+<p style="color: #87CEEB">¡Bienvenido a freeCodeCamp!</p>
 
 Edición: **Abril 2024**
 
