@@ -1,4 +1,4 @@
-# Construcción y edición de árboles filogenéticos 
+<h1 style="color:red;">Construcción y edición de árboles filogenéticos</h1> 
 
 Edición: **Abril 2024**
 
@@ -25,18 +25,15 @@ Este curso está dirigido a estudiantes e investigadores jóvenes interesados en
 |4|11 Abril|18:00-20:00|Edición de árboles filogenéticos|
 
 ## Contenido del curso
-<h1 style="color:blue;">Título 1</h1>
-<h2 style="color:red;">Título 2</h2>
-<h3 style="color:green;">Día 1: Conceptos clave</h3>
 
 <h3 style="color:green;">Día 1: Conceptos clave</h3>
-- Concepto de evolución
-- Tipos de secuencias
-- Genes ortólogos
-- Alineamiento de secuencias
-- Secuencias consenso
-- Modelos de sustitución
-- Métodos filogenéticos: Neighbor-joining, Máxima verosimilitud, Parsimonia, Inferencia Bayesiana
+  * Concepto de evolución
+  * Tipos de secuencias
+  *  Genes ortólogos
+  * Alineamiento de secuencias
+  * Secuencias consenso
+  * Modelos de sustitución
+  * Métodos filogenéticos: Neighbor-joining, Máxima verosimilitud, Parsimonia, Inferencia Bayesiana
   
 <h3 style="color:green;">Día 2: Preparación de datos y herramientas</h3>
 - Planteamiento del proyecto
