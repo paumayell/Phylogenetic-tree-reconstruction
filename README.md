@@ -27,31 +27,31 @@ Este curso está dirigido a estudiantes e investigadores jóvenes interesados en
 ## Contenido del curso
 
 <h3 style="color:green;">Día 1: Conceptos clave</h3>
-- Concepto de evolución
-- Tipos de secuencias
-- Genes ortólogos
-- Alineamiento de secuencias
-- Secuencias consenso
-- Modelos de sustitución
-- Métodos filogenéticos: Neighbor-joining, Máxima verosimilitud, Parsimonia, Inferencia Bayesiana
+- Concepto de evolución.
+- Tipos de secuencias.
+- Genes ortólogos.
+- Alineamiento de secuencias.
+- Secuencias consenso.
+- Modelos de sustitución.
+- Métodos filogenéticos: Neighbor-joining, Máxima verosimilitud, Parsimonia, Inferencia Bayesiana.
   
 <h3 style="color:green;">Día 2: Preparación de datos y herramientas</h3>
-- Planteamiento del proyecto
-- Descarga de secuencias
-- Instalación de herramientas bioinformáticas
-- Registro de usuario en las herramientas online
+- Planteamiento del proyecto.
+- Descarga de secuencias.
+- Instalación de herramientas bioinformáticas.
+- Registro de usuario en las herramientas online.
   
 <h3 style="color:green;">Día 3: Reconstrucción filogenética</h3>
-- Exploración de los datos
-- Obtención de genes ortólogos
-- Alineamiento de secuencias (MEGA)
-- Cálculo del modelo de sustitución (MEGA)
-- Construcción del árbol filogenético (MEGA)
+- Exploración de los datos.
+- Obtención de genes ortólogos.
+- Alineamiento de secuencias (MEGA).
+- Cálculo del modelo de sustitución (MEGA).
+- Construcción del árbol filogenético (MEGA).
 
 <h3 style="color:green;">Día 4: Edición de árboles filogenéticos</h3>
-- Cómo “leer” o interpretar un árbol filogenético
-- Uso de la herramienta FigTree
-- Uso de la herramienta iTol
+- Cómo “leer” o interpretar un árbol filogenético.
+- Uso de la herramienta FigTree.
+- Uso de la herramienta iTol.
 
 ## Instrucciones de instalación del software
 
