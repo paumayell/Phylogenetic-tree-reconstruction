@@ -24,41 +24,44 @@ Este curso está dirigido a estudiantes e investigadores jóvenes interesados en
 |3|09 Abril|18:00-20:00|Reconstrucción filogenética|
 |4|11 Abril|18:00-20:00|Edición de árboles filogenéticos|
 
-## Contenido del curso
 
+## Contenido del curso
 <h3 style="color:green;">Día 1: Conceptos clave</h3>
-- Concepto de evolución.
-- Tipos de secuencias.
-- Genes ortólogos.
-- Alineamiento de secuencias.
-- Secuencias consenso.
-- Modelos de sustitución.
+- Concepto de evolución
+- Tipos de secuencias
+- Genes ortólogos
+- Alineamiento de secuencias
+- Secuencias consenso
+- Modelos de sustitución
 - Métodos filogenéticos: Neighbor-joining, Máxima verosimilitud, Parsimonia, Inferencia Bayesiana.
   
 <h3 style="color:green;">Día 2: Preparación de datos y herramientas</h3>
-- Planteamiento del proyecto.
-- Descarga de secuencias.
-- Instalación de herramientas bioinformáticas.
-- Registro de usuario en las herramientas online.
-  
+- Planteamiento del proyecto
+- Descarga de secuencias
+- Instalación de herramientas bioinformáticas
+- Registro de usuario en las herramientas online
+
 <h3 style="color:green;">Día 3: Reconstrucción filogenética</h3>
-- Exploración de los datos.
-- Obtención de genes ortólogos.
-- Alineamiento de secuencias (MEGA).
-- Cálculo del modelo de sustitución (MEGA).
-- Construcción del árbol filogenético (MEGA).
+- Exploración de los datos
+- Obtención de genes ortólogos
+- Alineamiento de secuencias (MEGA)
+- Cálculo del modelo de sustitución (MEGA)
+- Construcción del árbol filogenético (MEGA)
 
 <h3 style="color:green;">Día 4: Edición de árboles filogenéticos</h3>
-- Cómo “leer” o interpretar un árbol filogenético.
-- Uso de la herramienta FigTree.
-- Uso de la herramienta iTol.
+- Cómo "leer" o interpretar un árbol filogenético
+- Uso de la herramienta FigTree
+- Uso de la herramienta iTOL
+
 
 ## Instrucciones de instalación del software
 
 Para la parte práctica de este curso, utilizaremos las siguientes herramientas bioinformáticas que deberán ser instaladas en tu computadora o, en su caso, deberás registrarte como usuario nuevo en la plataforma en línea: 
+
 - [MEGA](https://www.megasoftware.net): Descarga el archivo adecuado para tu sistema operativo (Windows, macOS o Linux) y segue las instrucciones de instalación proporcionadas para tu sistema.
 - [FigTree](https://github.com/rambaut/figtree/releases/tag/v1.4.4): Descarga el archivo correspondiente a tu sistema operativo (Windows o Linux: **FigTree.v1.4.4.zip**, macOS: **FigTree.v1.4.4.dmg**) y segue las instrucciones de instalación de tu computadora.
 - [iTOL](https://itol.embl.de) - Regístrate en el sitio web haciendo clic en el botón "Register" ubicado en la parte superior derecha.
+
 
 Verifica que la instalación se haya realizado correctamente abriendo el programa en tu computadora. ¡Con esto estarás listo para seguir la parte práctica del curso y aprovecharlo al máximo!
 
