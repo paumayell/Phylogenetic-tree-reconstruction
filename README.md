@@ -25,8 +25,11 @@ Este curso está dirigido a estudiantes e investigadores jóvenes interesados en
 |4|11 Abril|18:00-20:00|Edición de árboles filogenéticos|
 
 ## Contenido del curso
+<h1 style="color:blue;">Título 1</h1>
+<h2 style="color:red;">Título 2</h2>
+<h3 style="color:green;">Día 1: Conceptos clave</h3>
 
-<h1 style="color:green;">Día 1: Conceptos clave</h1>
+<h3 style="color:green;">Día 1: Conceptos clave</h3>
 - Concepto de evolución
 - Tipos de secuencias
 - Genes ortólogos
@@ -35,20 +38,20 @@ Este curso está dirigido a estudiantes e investigadores jóvenes interesados en
 - Modelos de sustitución
 - Métodos filogenéticos: Neighbor-joining, Máxima verosimilitud, Parsimonia, Inferencia Bayesiana
   
-<h1 style="color:green;">Día 2: Preparación de datos y herramientas</h1>
+<h3 style="color:green;">Día 2: Preparación de datos y herramientas</h3>
 - Planteamiento del proyecto
 - Descarga de secuencias
 - Instalación de herramientas bioinformáticas
 - Registro de usuario en las herramientas online
   
-<h1 style="color:green;">Día 3: Reconstrucción filogenética</h1>
+<h3 style="color:green;">Día 3: Reconstrucción filogenética</h3>
 - Exploración de los datos
 - Obtención de genes ortólogos
 - Alineamiento de secuencias (MEGA)
 - Cálculo del modelo de sustitución (MEGA)
 - Construcción del árbol filogenético (MEGA)
 
-<h1 style="color:green;">Día 4: Edición de árboles filogenéticos</h1>
+<h3 style="color:green;">Día 4: Edición de árboles filogenéticos</h3>
 - Cómo “leer” o interpretar un árbol filogenético
 - Uso de la herramienta FigTree
 - Uso de la herramienta iTol
