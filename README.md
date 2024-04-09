@@ -69,7 +69,7 @@ Verifica que la instalación se haya realizado correctamente abriendo el program
 
 ## Material para la práctica
 
-Secuencias proteicas de las beta-lactamasas
+[Secuencias proteicas de las beta-lactamasas](https://github.com/paumayell/Phylogenetic-tree-reconstruction/blob/main/Materiales/beta-lac-A-y-C_proteins.fasta)
 
 ## Diploma de participación
 
