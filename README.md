@@ -67,6 +67,10 @@ Para la parte práctica de este curso, utilizaremos las siguientes herramientas 
 
 Verifica que la instalación se haya realizado correctamente abriendo el programa en tu computadora. ¡Con esto estarás listo para seguir la parte práctica del curso y aprovecharlo al máximo!
 
+## Material para la práctica
+
+Secuencias proteicas de las beta-lactamasas
+
 ## Diploma de participación
 
 Para obtener tu diploma de participación en este curso, debes cumplir con al menos 75% de asistencia (es decir, asistir a al menos 3 clases).
