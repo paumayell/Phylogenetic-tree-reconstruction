@@ -1,0 +1,97 @@
+DATASET_HEATMAP																					
+SEPARATOR TAB																					
+DATASET_LABEL	Heatmap																				
+COLOR	red																				
+FIELD_LABELS	Amoxicillin	Ampicillin	Piperacillin	Ticarcillin	Cefepime	Cefotaxime	Cefoxitin	Cefpirome	Ceftazidime	Ceftriaxone	Cefuroxime	Cephalothin	Imipenem	Meropenem	Aztreonam	Amoxicillin-CLA	Cefotaxime-CLA	Ceftazidime-CLA	Piperacillin-TZB	Ticarcillin-CLA	Moxalactam
+																					
+#LEGEND_TITLE																					
+#LEGEND_SHAPES																					
+#LEGEND_LABELS																					
+#LEGEND_COLORS																					
+																					
+#1 is for sensitive																					
+#2 is for uncertain																					
+#3 is for resistant																					
+																					
+DATA																					
+DD-peptidase																					
+Class_A_BlaA																					
+Class_A_ACI-1																					
+Class_A_AER-1																					
+Class_A_OKP-A-1																					
+Class_A_OKP-B-1																					
+Class_A_Lut-1	2		2	2	2	2	1		2			2	1		2	1	1	1	1	2	
+Class_A_MAL-1																					
+Class_A_TLA-1																					
+Class_A_SFO-1	3		3		3	3			3				1		3	3					
+Class_A_SED-1	3		2	3		2	1				2	3			3	3					
+Class_A_ROB-1																					
+Class_A_RAHN-1	3		2	3	2	3	1	3	1	2	2	3	3	1	2	1	1	1	1	2	1
+Class_A_PME-1		3		2	2	2	1		3				1	1	3		1	1			
+Class_A_PER-1																					
+Class_A_KPC-1		2				2	2		2	2			3	2	3	2			1		
+Class_A_PSE-4																					
+Class_A_SCO-1																					
+Class_A_IMI-1																					
+Class_A_HERA-1																					
+Class_A_GES-1																					
+Class_A_IBC-2		3	3	3		2	1		3				1	1	2				2	3	
+Class_A_FONA-1																					
+Class_A_FAR-1																					
+Class_A_ERP-1	3		3	3	2	2	1	2	2	2	2	3	1		3	2	1	1	1	2	1
+Class_A_NMC-A																					
+Class_A_CME-1																					
+Class_A_CKO-1																					
+Class_A_CEPA-85																					
+Class_A_BIC-1	2		3	2	1	2	2		1		2	3	3	1	3	2				2	1
+Class_A_BES-1	3		3	3	3	3	1	3	3			3	2		3	2	1	2	3	2	
+Class_A_BEL-1																					
+Class_A_AST-1	3		3	2	1	1	1		1			1	1	1	1	2	1	1	3	2	
+Class_A_HugA-1																					
+Class_A_TEM-1D																					
+Class_A_TEM-1																					
+Class_A_TEM-26B																					
+Class_A_BlaZ																					
+Class_A_SME-1		3		3	1	1	1		2			2	3	3	3		1	1		3	1
+Class_A_SHV-2																					
+Class_A_SHV2A-kp																					
+Class_A_SHV-2a						3			2	3		2	1			1					
+Class_A_SHV-5																					
+Class_A_OXY1-1																					
+Class_A_OXY1a						1			1		1		1		2						
+Class_A_OXY2-1																					
+Class_A_OXY3-1																					
+Class_A_OXY4-1																					
+Class_A_OXY5-1																					
+Class_A_OXY6-1																					
+Class_A_CARB-1																					
+Class_A_VEB-1	1			2	1	1			2						2	1	1	1		1	
+Class_A_cfxA																					
+Class_A_cfxA2																					
+Class_A_cfxA3																					
+Class_A_cfxA4																					
+Class_A_cfxA5																					
+Class_A_cfxA6																					
+Class_A_CTX-M-1																					
+Class_A_LEN-1																					
+Class_A_Beta-lac_A2																					
+Class_A_Beta-lac_A1																					
+Class_C_AmpC																					
+Class_C_AmpC1_Ecoli																					
+Class_C_AmpC2_Ecoli																					
+Class_C_ACC-1			3		2	3	1	2	3				1	1	2			3	3		2
+Class_C_ACT-1			2		1	2	3		2	3			1		2				1		
+Class_C_MIR-1		3			2	3	2	2	3	3	2		1	3	3						3
+Class_C_MOR	2			2	1	2	1				2	2	1			3					1
+Class_C_MOX-1																					
+Class_C_TRU-1	2		2	2	2	3	3	2	3			3	1		2	2			2		
+Class_C_LAT-1																					
+Class_C_FOX-1																					
+Class_C_DHA-1																					
+Class_C_CMG																					
+Class_C_CFE-1			3		3	3			3			2	2		3		3				
+Class_C_BIL-1																					
+Class_C_ZEG-1																					
+Class_C_CMY-1			3		2	3	3	2	2				1	1	3						2
+Class_C_OCH-2																					
+Class_C_beta-lac																					

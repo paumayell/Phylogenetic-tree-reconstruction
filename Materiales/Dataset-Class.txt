@@ -1,0 +1,93 @@
+DATASET_COLORSTRIP			
+SEPARATOR TAB			
+DATASET_LABEL	Class		
+COLOR	#ff0000		
+			
+LEGEND_TITLE	Class		
+LEGEND_SHAPES	1	1	1
+LEGEND_LABELS	Class A	Class C	Outgroup
+LEGEND_COLORS	#C7B0DA	#9367BA	#5668FF
+			
+			
+DATA			
+DD-peptidase	#5668FF		
+Class_A_BlaA	#C7B0DA		
+Class_A_ACI-1	#C7B0DA		
+Class_A_AER-1	#C7B0DA		
+Class_A_OKP-A-1	#C7B0DA		
+Class_A_OKP-B-1	#C7B0DA		
+Class_A_Lut-1	#C7B0DA		
+Class_A_MAL-1	#C7B0DA		
+Class_A_TLA-1	#C7B0DA		
+Class_A_SFO-1	#C7B0DA		
+Class_A_SED-1	#C7B0DA		
+Class_A_ROB-1	#C7B0DA		
+Class_A_RAHN-1	#C7B0DA		
+Class_A_PME-1	#C7B0DA		
+Class_A_PER-1	#C7B0DA		
+Class_A_KPC-1	#C7B0DA		
+Class_A_PSE-4	#C7B0DA		
+Class_A_SCO-1	#C7B0DA		
+Class_A_IMI-1	#C7B0DA		
+Class_A_HERA-1	#C7B0DA		
+Class_A_GES-1	#C7B0DA		
+Class_A_IBC-2	#C7B0DA		
+Class_A_FONA-1	#C7B0DA		
+Class_A_FAR-1	#C7B0DA		
+Class_A_ERP-1	#C7B0DA		
+Class_A_NMC-A	#C7B0DA		
+Class_A_CME-1	#C7B0DA		
+Class_A_CKO-1	#C7B0DA		
+Class_A_CEPA-85	#C7B0DA		
+Class_A_BIC-1	#C7B0DA		
+Class_A_BES-1	#C7B0DA		
+Class_A_BEL-1	#C7B0DA		
+Class_A_AST-1	#C7B0DA		
+Class_A_HugA-1	#C7B0DA		
+Class_A_TEM-1D	#C7B0DA		
+Class_A_TEM-1	#C7B0DA		
+Class_A_TEM-26B	#C7B0DA		
+Class_A_BlaZ	#C7B0DA		
+Class_A_SME-1	#C7B0DA		
+Class_A_SHV-2	#C7B0DA		
+Class_A_SHV2A-kp	#C7B0DA		
+Class_A_SHV-2a	#C7B0DA		
+Class_A_SHV-5	#C7B0DA		
+Class_A_OXY1-1	#C7B0DA		
+Class_A_OXY1a	#C7B0DA		
+Class_A_OXY2-1	#C7B0DA		
+Class_A_OXY3-1	#C7B0DA		
+Class_A_OXY4-1	#C7B0DA		
+Class_A_OXY5-1	#C7B0DA		
+Class_A_OXY6-1	#C7B0DA		
+Class_A_CARB-1	#C7B0DA		
+Class_A_VEB-1	#C7B0DA		
+Class_A_cfxA	#C7B0DA		
+Class_A_cfxA2	#C7B0DA		
+Class_A_cfxA3	#C7B0DA		
+Class_A_cfxA4	#C7B0DA		
+Class_A_cfxA5	#C7B0DA		
+Class_A_cfxA6	#C7B0DA		
+Class_A_CTX-M-1	#C7B0DA		
+Class_A_LEN-1	#C7B0DA		
+Class_A_Beta-lac_A2	#C7B0DA		
+Class_A_Beta-lac_A1	#C7B0DA		
+Class_C_AmpC	#9367BA		
+Class_C_AmpC1_Ecoli	#9367BA		
+Class_C_AmpC2_Ecoli	#9367BA		
+Class_C_ACC-1	#9367BA		
+Class_C_ACT-1	#9367BA		
+Class_C_MIR-1	#9367BA		
+Class_C_MOR	#9367BA		
+Class_C_MOX-1	#9367BA		
+Class_C_TRU-1	#9367BA		
+Class_C_LAT-1	#9367BA		
+Class_C_FOX-1	#9367BA		
+Class_C_DHA-1	#9367BA		
+Class_C_CMG	#9367BA		
+Class_C_CFE-1	#9367BA		
+Class_C_BIL-1	#9367BA		
+Class_C_ZEG-1	#9367BA		
+Class_C_CMY-1	#9367BA		
+Class_C_OCH-2	#9367BA		
+Class_C_beta-lac	#9367BA		
