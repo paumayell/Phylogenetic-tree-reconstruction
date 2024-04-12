@@ -68,8 +68,9 @@ Para la parte práctica de este curso, utilizaremos las siguientes herramientas 
 Verifica que la instalación se haya realizado correctamente abriendo el programa en tu computadora. ¡Con esto estarás listo para seguir la parte práctica del curso y aprovecharlo al máximo!
 
 ## Material para la práctica
-
-[Secuencias proteicas de las beta-lactamasas](https://github.com/paumayell/Phylogenetic-tree-reconstruction/blob/main/Materiales/beta-lac-A-y-C_proteins.fasta)
+- Secuencias de proteínas de las beta-lactamasas (Clase A y Clase C) + outgroup: [FASTA file](https://github.com/paumayell/Phylogenetic-tree-reconstruction/blob/main/Materiales/beta-lac-A-y-C_proteins.fasta)
+- Alineamiento *core* derivado de t-coffee: [Alineamiento limpio](https://github.com/paumayell/Phylogenetic-tree-reconstruction/blob/main/Materiales/t-coffee-result_align.fasta)
+- Árbol filogenético generado con PhyML (100 réplicas de bootstrap): [NEWICK file](https://github.com/paumayell/Phylogenetic-tree-reconstruction/blob/main/Materiales/Tree-beta-lactamases-100rep.nwk)
 
 ## Diploma de participación
 
