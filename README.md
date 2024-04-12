@@ -70,7 +70,7 @@ Verifica que la instalación se haya realizado correctamente abriendo el program
 ## Material para la práctica
 - Secuencias de proteínas de las beta-lactamasas (Clase A y Clase C) + outgroup: [FASTA file](https://github.com/paumayell/Phylogenetic-tree-reconstruction/blob/main/Materiales/beta-lac-A-y-C_proteins.fasta)
 - Alineamiento *core* derivado de t-coffee: [Alineamiento limpio](https://github.com/paumayell/Phylogenetic-tree-reconstruction/blob/main/Materiales/t-coffee-result_align.fasta)
-- Árbol filogenético generado con PhyML (100 réplicas de bootstrap): [NEWICK file](https://github.com/paumayell/Phylogenetic-tree-reconstruction/blob/main/Materiales/Tree-beta-lactamases-100rep.nwk)
+- Árbol filogenético generado con PhyML (100 réplicas de bootstrap): [NEWICK file](https://github.com/paumayell/Phylogenetic-tree-reconstruction/blob/main/Materiales/beta-lactamases-tree-100rep.nwk)
 
 ## Diploma de participación
 
